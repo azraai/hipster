@@ -11,4 +11,7 @@
 			<input type="password" name="password" id="password">
 		</div>
 	</div>
+	<div class="form-actions">
+	  <button class="btn btn-primary" type="submit">Login</button>
+	</div>
 </form>
